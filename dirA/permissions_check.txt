@@ -1,4 +1,0 @@
-total 0
--rw-rw-r-- 1 koufan koufan 0 Nov  1 09:59 file1.txt
--rw-rw-r-- 1 koufan koufan 0 Nov  1 09:59 file2.md
--rw-rw-r-- 1 koufan koufan 0 Nov  1 12:31 permissions_check.txt
